@@ -1,6 +1,6 @@
 # GUI
 
-###Project:
+###Project: GUI login applications in Java
 
 ##Task: 
 
