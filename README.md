@@ -2,9 +2,9 @@
 
 ###Project: GUI login applications in Java
 
-##Task: 
+##Task: the task was to create GUI applications
 
-##Criteria:
+##Criteria: the user is to input their username and password and the GUI is to display wether they were successful logging in or not
 
 ##Summary of Tech Stack:
 
